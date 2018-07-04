@@ -1,5 +1,5 @@
 # Télécharger l'application
-git clone ...
+git clone https://github.com/Flo0975/netflou.git
 
 # Entrer dans l'application
 cd netflou
